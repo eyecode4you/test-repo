@@ -1,1 +1,1 @@
-bool MainFunction();
+bool MAINFUNCTION();
