@@ -1,1 +1,1 @@
-bool MAINFUNCTION();
+bool MAINFUNCTION()
